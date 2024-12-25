@@ -436,7 +436,7 @@ def create_report_content_pdf(candidate_data, messages):
     os.makedirs('output',exist_ok=True)
 
     name = candidate_data['Name']
-    report_filename = f"output\{name}_report_content.pdf"
+    report_filename = rf"output\{name}_report_content.pdf"
     c = canvas.Canvas(report_filename, pagesize=A4)
     width, height = A4
     left_margin = 80
