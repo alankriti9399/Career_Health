@@ -1,4 +1,6 @@
-pandas
-reportlab
-PyPDF2
-google-api-python-client
+google-api-python-client==2.100.0
+google-auth==2.21.0
+pandas==1.5.3
+PyPDF2==2.10.0
+reportlab==3.6.2
+IPython==7.34.0
