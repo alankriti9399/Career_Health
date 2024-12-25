@@ -9,7 +9,7 @@ def main():
     if st.button("Run Script"):
         try:
             # Ensure the script exists in the same directory
-            script_path = os.path.join(os.getcwd(), "main(1).py")
+            script_path = os.path.join(os.getcwd(), "main (1).py")
             if os.path.exists(script_path):
                 # Run the script
                 result = subprocess.run(
