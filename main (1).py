@@ -731,9 +731,9 @@ domain_to_pdf_path = {
     'Operations': r'utils/Base_PDF/Operations.pdf',
      'Media and Communication': r'utils/Base_PDF/Media&Comm.pdf',
     'Animation and Graphics': r'utils/Base_PDF/Animation&Graphics.pdf'
-    'Sales': 'utils/Base_PDF/Sales.pdf',
-    'Leadership': 'utils/Base_PDF/Leadership.pdf',
-    'Banking': 'utils/Base_PDF/Banking.pdf'
+    'Sales': r'utils/Base_PDF/Sales.pdf',
+    'Leadership': r'utils/Base_PDF/Leadership.pdf',
+    'Banking': r'utils/Base_PDF/Banking.pdf'
 
     # Add other domains and their corresponding PDF paths here
 }
