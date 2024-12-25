@@ -7,6 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1u9CqgGjRXmuNLQGlHB2ifwivP6WXzCxn
 """
 
+pip install google-api-python-client
 from googleapiclient.discovery import build
 from google.oauth2.service_account import Credentials
 import pandas as pd
