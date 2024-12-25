@@ -730,7 +730,7 @@ domain_to_pdf_path = {
      'Core Engineering': r'utils/Base_PDF/CoreEngg.pdf',
     'Operations': r'utils/Base_PDF/Operations.pdf',
      'Media and Communication': r'utils/Base_PDF/Media&Comm.pdf',
-    'Animation and Graphics': r'utils/Base_PDF/Animation&Graphics.pdf'
+    'Animation and Graphics': r'utils/Base_PDF/Animation&Graphics.pdf',
     'Sales': r'utils/Base_PDF/Sales.pdf',
     'Leadership': r'utils/Base_PDF/Leadership.pdf',
     'Banking': r'utils/Base_PDF/Banking.pdf'
